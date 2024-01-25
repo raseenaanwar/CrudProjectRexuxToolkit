@@ -6,7 +6,7 @@
 2. User side
         Login/Register
         Home page (navigation to user profile)
-       User Profile page (must have file upload option for profile image)
+       User Profile page (have file upload option for profile image)
  3. Admin side
       Login
      able to view and perform search on user data
